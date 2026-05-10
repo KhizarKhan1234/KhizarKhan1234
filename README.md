@@ -1,77 +1,68 @@
-````md id="b2r8qn"
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Khizar Khan
+
 <div align="center">
 
-# 👨‍💻 Khizar Khan
+### 🚀 Full Stack Developer | SaaS Builder | UI/UX Enthusiast
 
-### Full Stack Developer • SaaS Builder • Problem Solver
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;React+%2B+Next.js+Developer;Node.js+%2B+MongoDB+Developer;Clean+Code+%7C+Modern+UI+%7C+Scalable+Apps" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%2F+Next.js+Developer;Node.js+%2F+MongoDB+Developer;Building+Modern+SaaS+Applications" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🌑 About Me
 
-```js
-const khizar = {
-  location: "Pakistan",
-  role: "Full Stack Developer",
-  technologies: [
-    "React",
-    "Next.js",
-    "Node.js",
-    "MongoDB",
-    "Tailwind CSS"
-  ],
-  currentFocus: "Building SaaS Applications",
-  learning: "Advanced Backend Architecture",
-  funFact: "I turn ideas into real products 🚀"
-}
-```
+💻 Passionate about building modern web applications  
+🚀 Currently working on SaaS & eCommerce Platforms  
+⚡ Love creating clean UI/UX experiences  
+🌱 Learning advanced backend architecture & scalable systems  
+🎯 Goal: Build world-class digital products
 
 ---
 
-# ⚒️ Tech Stack
+# 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,javascript,typescript,tailwind,firebase,git,github,vscode,vercel,figma" />
+## Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,javascript" />
+
+## Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+
+## Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma" />
 
 </div>
 
 ---
 
-# 🚀 Projects
+# 🚀 Current Projects
 
-## 🛒 Shopify Clone SaaS
-Multi-vendor eCommerce platform with dashboard, authentication, products, and store management.
-
-## 🍔 Restaurant Management App
-Modern restaurant ordering & inventory system.
-
-## 📦 Inventory Management System
-Stock tracking system with admin dashboard.
+- 🛒 Shopify-like SaaS Platform
+- 🍔 Restaurant Management System
+- 📦 Inventory Management App
+- 🌐 Portfolio & Client Websites
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KhizarKhan1234&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KhizarKhan1234&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhizarKhan1234&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KhizarKhan1234&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KhizarKhan1234&theme=github-dark-blue&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=KhizarKhan1234&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -81,22 +72,9 @@ Stock tracking system with admin dashboard.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhizarKhan1234&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhizarKhan1234&theme=tokyo-night&hide_border=true" />
 
 </div>
-
----
-
-# 🧰 Developer Tools
-
-```txt
-Editor       : VS Code
-Version Ctrl : Git & GitHub
-Deployment   : Vercel
-Database     : MongoDB
-API Testing  : Postman
-Design       : Figma
-```
 
 ---
 
@@ -122,10 +100,6 @@ Design       : Figma
 
 <div align="center">
 
-```bash
-> npm install success
-> Developer mode activated 🚀
-```
+### ⚡ "Code. Create. Innovate."
 
 </div>
-````
